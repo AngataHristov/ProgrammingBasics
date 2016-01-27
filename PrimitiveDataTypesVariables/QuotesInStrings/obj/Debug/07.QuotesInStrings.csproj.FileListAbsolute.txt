@@ -1,0 +1,7 @@
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\QuotesInStrings\bin\Debug\QuotesInStrings.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\QuotesInStrings\bin\Debug\QuotesInStrings.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\QuotesInStrings\bin\Debug\QuotesInStrings.exe.CodeAnalysisLog.xml
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\QuotesInStrings\bin\Debug\QuotesInStrings.exe.lastcodeanalysissucceeded
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\QuotesInStrings\obj\Debug\QuotesInStrings.pdb

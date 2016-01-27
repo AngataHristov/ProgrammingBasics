@@ -1,0 +1,5 @@
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\04.WeekFour_20150926\MyHomework\ConsoleInputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\04.WeekFour_20150926\MyHomework\ConsoleInputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\04.WeekFour_20150926\MyHomework\ConsoleInputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\04.WeekFour_20150926\MyHomework\ConsoleInputOutput\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\04.WeekFour_20150926\MyHomework\ConsoleInputOutput\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

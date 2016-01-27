@@ -1,0 +1,8 @@
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\CheckBitAtGivenPosition\bin\Debug\CheckBitAtGivenPosition.exe.config
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\CheckBitAtGivenPosition\bin\Debug\CheckBitAtGivenPosition.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\CheckBitAtGivenPosition\bin\Debug\CheckBitAtGivenPosition.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\CheckBitAtGivenPosition\obj\Debug\CheckBitAtGivenPosition.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\CheckBitAtGivenPosition\obj\Debug\CheckBitAtGivenPosition.pdb
+C:\Users\Elliot\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\CheckBitAtGivenPosition\bin\Debug\CheckBitAtGivenPosition.exe.config
+C:\Users\Elliot\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\CheckBitAtGivenPosition\obj\Debug\CheckBitAtGivenPosition.exe
+C:\Users\Elliot\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\CheckBitAtGivenPosition\obj\Debug\CheckBitAtGivenPosition.pdb

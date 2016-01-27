@@ -1,0 +1,7 @@
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\PrintNumbers\bin\Debug\PrintNumbers.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\PrintNumbers\bin\Debug\PrintNumbers.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\PrintNumbers\bin\Debug\PrintNumbers.exe.CodeAnalysisLog.xml
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\PrintNumbers\bin\Debug\PrintNumbers.exe.lastcodeanalysissucceeded
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\PrintNumbers\obj\Debug\PrintNumbers.pdb

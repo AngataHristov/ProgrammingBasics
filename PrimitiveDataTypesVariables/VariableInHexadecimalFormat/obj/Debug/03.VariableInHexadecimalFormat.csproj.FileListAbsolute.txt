@@ -1,0 +1,14 @@
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.config
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.CodeAnalysisLog.xml
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.lastcodeanalysissucceeded
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.config
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.CodeAnalysisLog.xml
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.lastcodeanalysissucceeded
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.pdb

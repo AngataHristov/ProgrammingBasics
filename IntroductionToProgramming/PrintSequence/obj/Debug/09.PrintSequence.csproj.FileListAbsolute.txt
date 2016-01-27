@@ -1,0 +1,5 @@
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\PrintSequence\bin\Debug\PrintSequence.exe.config
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\PrintSequence\bin\Debug\PrintSequence.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\PrintSequence\bin\Debug\PrintSequence.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\PrintSequence\obj\Debug\PrintSequence.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\PrintSequence\obj\Debug\PrintSequence.pdb

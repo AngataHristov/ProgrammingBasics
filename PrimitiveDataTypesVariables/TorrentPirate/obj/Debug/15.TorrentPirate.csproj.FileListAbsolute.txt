@@ -1,0 +1,5 @@
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\TorrentPirate\bin\Debug\TorrentPirate.exe.config
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\TorrentPirate\bin\Debug\TorrentPirate.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\TorrentPirate\bin\Debug\TorrentPirate.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\TorrentPirate\obj\Debug\TorrentPirate.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\TorrentPirate\obj\Debug\TorrentPirate.pdb

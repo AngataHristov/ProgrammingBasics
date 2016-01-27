@@ -1,0 +1,6 @@
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\02.WeekTwo_20150912\My homework\_ForSending\PrintYourName\bin\Debug\PrintYourName.exe.config
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\02.WeekTwo_20150912\My homework\_ForSending\PrintYourName\bin\Debug\PrintYourName.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\02.WeekTwo_20150912\My homework\_ForSending\PrintYourName\bin\Debug\PrintYourName.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\02.WeekTwo_20150912\My homework\_ForSending\PrintYourName\obj\Debug\05.PrintYourName.csprojResolveAssemblyReference.cache
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\02.WeekTwo_20150912\My homework\_ForSending\PrintYourName\obj\Debug\PrintYourName.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\02.WeekTwo_20150912\My homework\_ForSending\PrintYourName\obj\Debug\PrintYourName.pdb

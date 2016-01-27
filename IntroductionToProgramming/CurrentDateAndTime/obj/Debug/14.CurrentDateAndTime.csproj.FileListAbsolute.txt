@@ -1,0 +1,10 @@
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.config
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.CodeAnalysisLog.xml
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.lastcodeanalysissucceeded
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.config
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.pdb

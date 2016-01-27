@@ -1,0 +1,6 @@
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\Trapezoids\bin\Debug\Trapezoids.exe.config
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\Trapezoids\bin\Debug\Trapezoids.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\Trapezoids\bin\Debug\Trapezoids.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\Trapezoids\obj\Debug\09.Trapezoids.csprojResolveAssemblyReference.cache
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\Trapezoids\obj\Debug\Trapezoids.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\Trapezoids\obj\Debug\Trapezoids.pdb

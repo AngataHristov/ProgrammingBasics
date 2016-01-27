@@ -1,0 +1,9 @@
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\BitwiseExtractBitNumberThree\bin\Debug\BitwiseExtractBitNumberThree.exe.config
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\BitwiseExtractBitNumberThree\bin\Debug\BitwiseExtractBitNumberThree.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\BitwiseExtractBitNumberThree\bin\Debug\BitwiseExtractBitNumberThree.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\BitwiseExtractBitNumberThree\obj\Debug\11.BitwiseExtractBitNumberThree.csprojResolveAssemblyReference.cache
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\BitwiseExtractBitNumberThree\obj\Debug\BitwiseExtractBitNumberThree.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\BitwiseExtractBitNumberThree\obj\Debug\BitwiseExtractBitNumberThree.pdb
+C:\Users\Elliot\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\BitwiseExtractBitNumberThree\bin\Debug\BitwiseExtractBitNumberThree.exe.config
+C:\Users\Elliot\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\BitwiseExtractBitNumberThree\obj\Debug\BitwiseExtractBitNumberThree.exe
+C:\Users\Elliot\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\BitwiseExtractBitNumberThree\obj\Debug\BitwiseExtractBitNumberThree.pdb

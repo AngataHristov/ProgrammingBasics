@@ -1,0 +1,7 @@
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\SquareRoot\bin\Debug\SquareRoot.exe.config
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\SquareRoot\bin\Debug\SquareRoot.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\SquareRoot\bin\Debug\SquareRoot.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\SquareRoot\bin\Debug\SquareRoot.exe.CodeAnalysisLog.xml
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\SquareRoot\bin\Debug\SquareRoot.exe.lastcodeanalysissucceeded
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\SquareRoot\obj\Debug\SquareRoot.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\SquareRoot\obj\Debug\SquareRoot.pdb

@@ -1,0 +1,5 @@
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\04.WeekFour_20150926\MyHomework\ConsoleInputOutput\NumberComparer\bin\Debug\NumberComparer.exe.config
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\04.WeekFour_20150926\MyHomework\ConsoleInputOutput\NumberComparer\bin\Debug\NumberComparer.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\04.WeekFour_20150926\MyHomework\ConsoleInputOutput\NumberComparer\bin\Debug\NumberComparer.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\04.WeekFour_20150926\MyHomework\ConsoleInputOutput\NumberComparer\obj\Debug\NumberComparer.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\04.WeekFour_20150926\MyHomework\ConsoleInputOutput\NumberComparer\obj\Debug\NumberComparer.pdb

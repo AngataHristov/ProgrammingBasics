@@ -1,0 +1,6 @@
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\04.WeekFour_20150926\MyHomework\ConsoleInputOutput\NumsInIntervalDivByGivenNum\bin\Debug\NumsInIntervalDivByGivenNum.exe.config
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\04.WeekFour_20150926\MyHomework\ConsoleInputOutput\NumsInIntervalDivByGivenNum\bin\Debug\NumsInIntervalDivByGivenNum.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\04.WeekFour_20150926\MyHomework\ConsoleInputOutput\NumsInIntervalDivByGivenNum\bin\Debug\NumsInIntervalDivByGivenNum.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\04.WeekFour_20150926\MyHomework\ConsoleInputOutput\NumsInIntervalDivByGivenNum\obj\Debug\11.NumsInIntervalDivByGivenNum.csprojResolveAssemblyReference.cache
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\04.WeekFour_20150926\MyHomework\ConsoleInputOutput\NumsInIntervalDivByGivenNum\obj\Debug\NumsInIntervalDivByGivenNum.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\04.WeekFour_20150926\MyHomework\ConsoleInputOutput\NumsInIntervalDivByGivenNum\obj\Debug\NumsInIntervalDivByGivenNum.pdb

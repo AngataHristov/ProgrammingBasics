@@ -1,0 +1,7 @@
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.exe.CodeAnalysisLog.xml
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.exe.lastcodeanalysissucceeded
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\BooleanVariable\obj\Debug\BooleanVariable.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\BooleanVariable\obj\Debug\BooleanVariable.pdb

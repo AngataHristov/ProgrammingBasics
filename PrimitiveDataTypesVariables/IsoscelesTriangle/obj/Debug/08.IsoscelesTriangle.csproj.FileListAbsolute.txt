@@ -1,0 +1,7 @@
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.CodeAnalysisLog.xml
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.lastcodeanalysissucceeded

@@ -1,0 +1,7 @@
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\ReformatCode\bin\Debug\ReformatCode.exe.config
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\ReformatCode\bin\Debug\ReformatCode.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\ReformatCode\bin\Debug\ReformatCode.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\ReformatCode\bin\Debug\ReformatCode.exe.CodeAnalysisLog.xml
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\ReformatCode\bin\Debug\ReformatCode.exe.lastcodeanalysissucceeded
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\ReformatCode\obj\Debug\ReformatCode.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\ReformatCode\obj\Debug\ReformatCode.pdb

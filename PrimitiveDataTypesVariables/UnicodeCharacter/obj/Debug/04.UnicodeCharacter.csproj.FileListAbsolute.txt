@@ -1,0 +1,14 @@
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.CodeAnalysisLog.xml
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.lastcodeanalysissucceeded
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.CodeAnalysisLog.xml
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.lastcodeanalysissucceeded
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb

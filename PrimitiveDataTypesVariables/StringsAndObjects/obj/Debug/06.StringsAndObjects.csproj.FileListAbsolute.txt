@@ -1,0 +1,14 @@
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\StringsAndObjects\obj\Debug\StringsAndObjects.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\StringsAndObjects\bin\Debug\StringsAndObjects.exe.CodeAnalysisLog.xml
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\StringsAndObjects\bin\Debug\StringsAndObjects.exe.lastcodeanalysissucceeded
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\StringsAndObjects\bin\Debug\StringsAndObjects.exe.CodeAnalysisLog.xml
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\StringsAndObjects\bin\Debug\StringsAndObjects.exe.lastcodeanalysissucceeded
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\StringsAndObjects\obj\Debug\StringsAndObjects.pdb

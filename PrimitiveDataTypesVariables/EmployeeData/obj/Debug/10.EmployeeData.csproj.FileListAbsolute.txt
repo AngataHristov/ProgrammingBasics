@@ -1,0 +1,12 @@
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\EmployeeData\bin\Debug\EmployeeData.exe.config
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\EmployeeData\bin\Debug\EmployeeData.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\EmployeeData\bin\Debug\EmployeeData.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\EmployeeData\obj\Debug\EmployeeData.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\EmployeeData\obj\Debug\EmployeeData.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\EmployeeData\bin\Debug\EmployeeData.exe.config
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\EmployeeData\obj\Debug\EmployeeData.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\EmployeeData\obj\Debug\EmployeeData.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\EmployeeData\bin\Debug\EmployeeData.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\EmployeeData\bin\Debug\EmployeeData.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\EmployeeData\bin\Debug\EmployeeData.exe.CodeAnalysisLog.xml
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\EmployeeData\bin\Debug\EmployeeData.exe.lastcodeanalysissucceeded

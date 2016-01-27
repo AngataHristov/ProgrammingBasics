@@ -1,0 +1,6 @@
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\ThirdDigitSeven\bin\Debug\ThirdDigitSeven.exe.config
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\ThirdDigitSeven\bin\Debug\ThirdDigitSeven.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\ThirdDigitSeven\bin\Debug\ThirdDigitSeven.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\ThirdDigitSeven\obj\Debug\05.ThirdDigitSeven.csprojResolveAssemblyReference.cache
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\ThirdDigitSeven\obj\Debug\ThirdDigitSeven.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\ThirdDigitSeven\obj\Debug\ThirdDigitSeven.pdb

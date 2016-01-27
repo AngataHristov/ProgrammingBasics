@@ -1,0 +1,7 @@
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe.config
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe.CodeAnalysisLog.xml
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekTwo_20150912\My homework and exercises\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe.lastcodeanalysissucceeded

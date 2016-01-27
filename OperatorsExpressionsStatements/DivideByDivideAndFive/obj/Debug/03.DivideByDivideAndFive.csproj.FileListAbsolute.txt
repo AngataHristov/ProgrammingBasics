@@ -1,0 +1,5 @@
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\DivideByDivideAndFive\bin\Debug\DivideByDivideAndFive.exe.config
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\DivideByDivideAndFive\bin\Debug\DivideByDivideAndFive.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\DivideByDivideAndFive\bin\Debug\DivideByDivideAndFive.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\DivideByDivideAndFive\obj\Debug\DivideByDivideAndFive.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\DivideByDivideAndFive\obj\Debug\DivideByDivideAndFive.pdb

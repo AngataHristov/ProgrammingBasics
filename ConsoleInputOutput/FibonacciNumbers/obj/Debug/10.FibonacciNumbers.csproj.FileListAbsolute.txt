@@ -1,0 +1,5 @@
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\04.WeekFour_20150926\MyHomework\ConsoleInputOutput\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe.config
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\04.WeekFour_20150926\MyHomework\ConsoleInputOutput\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\04.WeekFour_20150926\MyHomework\ConsoleInputOutput\FibonacciNumbers\bin\Debug\FibonacciNumbers.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\04.WeekFour_20150926\MyHomework\ConsoleInputOutput\FibonacciNumbers\obj\Debug\FibonacciNumbers.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\04.WeekFour_20150926\MyHomework\ConsoleInputOutput\FibonacciNumbers\obj\Debug\FibonacciNumbers.pdb

@@ -1,0 +1,9 @@
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\ModifyBitAtGivenPosition\bin\Debug\ModifyBitAtGivenPosition.exe.config
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\ModifyBitAtGivenPosition\bin\Debug\ModifyBitAtGivenPosition.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\ModifyBitAtGivenPosition\bin\Debug\ModifyBitAtGivenPosition.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\ModifyBitAtGivenPosition\obj\Debug\14.ModifyBitAtGivenPosition.csprojResolveAssemblyReference.cache
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\ModifyBitAtGivenPosition\obj\Debug\ModifyBitAtGivenPosition.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\ModifyBitAtGivenPosition\obj\Debug\ModifyBitAtGivenPosition.pdb
+C:\Users\Elliot\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\ModifyBitAtGivenPosition\bin\Debug\ModifyBitAtGivenPosition.exe.config
+C:\Users\Elliot\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\ModifyBitAtGivenPosition\obj\Debug\ModifyBitAtGivenPosition.exe
+C:\Users\Elliot\Desktop\IT\SoftUniEducation\Programming Basics\05.WeekFive20151003\MyHomework\OperatorsExprStatements\ModifyBitAtGivenPosition\obj\Debug\ModifyBitAtGivenPosition.pdb

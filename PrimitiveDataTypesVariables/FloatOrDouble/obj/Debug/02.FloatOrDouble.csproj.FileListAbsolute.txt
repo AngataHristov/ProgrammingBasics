@@ -1,0 +1,15 @@
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\FloatOrDouble\obj\Debug\FloatOrDouble.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.exe.CodeAnalysisLog.xml
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\WeekThree_20150919\My homework\PrimitDataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.exe.lastcodeanalysissucceeded
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.exe.CodeAnalysisLog.xml
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\FloatOrDouble\bin\Debug\FloatOrDouble.exe.lastcodeanalysissucceeded
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\FloatOrDouble\obj\Debug\FloatOrDouble.pdb
+C:\Users\ani\Desktop\IT\SoftUniEducation\Programming Basics\03.WeekThree_20150919\My homework\PrimitDataTypesAndVariables\FloatOrDouble\obj\Debug\02.FloatOrDouble.csprojResolveAssemblyReference.cache
