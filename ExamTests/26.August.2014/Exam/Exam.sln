@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.TicTacToePower", "TicTacToePower\01.TicTacToePower.csproj", "{DEF3F483-CB21-44D1-A413-02BF7C426A47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Star", "Star\03.Star.csproj", "{29980FA1-6D69-40F5-AFA8-ACC470AB1E1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.JumpingSums", "JumpingSums\02.JumpingSums.csproj", "{E65D5113-9F13-412E-9116-DE253438D7D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEF3F483-CB21-44D1-A413-02BF7C426A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF3F483-CB21-44D1-A413-02BF7C426A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF3F483-CB21-44D1-A413-02BF7C426A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF3F483-CB21-44D1-A413-02BF7C426A47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29980FA1-6D69-40F5-AFA8-ACC470AB1E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29980FA1-6D69-40F5-AFA8-ACC470AB1E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29980FA1-6D69-40F5-AFA8-ACC470AB1E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29980FA1-6D69-40F5-AFA8-ACC470AB1E1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E65D5113-9F13-412E-9116-DE253438D7D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E65D5113-9F13-412E-9116-DE253438D7D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E65D5113-9F13-412E-9116-DE253438D7D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E65D5113-9F13-412E-9116-DE253438D7D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

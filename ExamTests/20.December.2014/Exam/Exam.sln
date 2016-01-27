@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiggyBank", "PiggyBank\PiggyBank.csproj", "{34C5F2D3-C104-4B40-98DB-3564E203563B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boat", "Boat\Boat.csproj", "{A44DD3D9-0F45-4866-97FE-1856FEE21DAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitLock", "BitLock\BitLock.csproj", "{D0F1EDCC-8B13-4F83-95B9-2D52F59F8DD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34C5F2D3-C104-4B40-98DB-3564E203563B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34C5F2D3-C104-4B40-98DB-3564E203563B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34C5F2D3-C104-4B40-98DB-3564E203563B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34C5F2D3-C104-4B40-98DB-3564E203563B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A44DD3D9-0F45-4866-97FE-1856FEE21DAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A44DD3D9-0F45-4866-97FE-1856FEE21DAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A44DD3D9-0F45-4866-97FE-1856FEE21DAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A44DD3D9-0F45-4866-97FE-1856FEE21DAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0F1EDCC-8B13-4F83-95B9-2D52F59F8DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F1EDCC-8B13-4F83-95B9-2D52F59F8DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F1EDCC-8B13-4F83-95B9-2D52F59F8DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F1EDCC-8B13-4F83-95B9-2D52F59F8DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
